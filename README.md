@@ -2,7 +2,6 @@
 
 Welcome to the Movie Search App, a React-based web application that lets you search and discover movies. Dive into a vast database of films with details including synopsis, ratings, and trailers. Designed to enhance your movie-picking experience, this app is perfect for cinephiles and casual viewers alike!
 
-![App Home Page]([path/to/homepage_screenshot.png](https://images.app.goo.gl/9QkphXmPh9vfsrsJ9))
 
 ## Features
 
